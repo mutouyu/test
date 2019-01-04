@@ -1,2 +1,3 @@
-This is the first git file
-I want to test it 
+This is the git file
+I want to test it !
+wow it's cool 
